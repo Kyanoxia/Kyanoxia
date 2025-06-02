@@ -1,25 +1,79 @@
-![alt README header](https://cdn.bsky.app/img/banner/plain/did:plc:cocpebhxzqhh2vxsp4ivzdbr/bafkreihfzmdqoxuoom6oxhk5nzkpcfm65lhbnz3mt6bq22v4bmfn27jake@jpeg)
+<!-- Profile README for Kyanoxia -->
 
-## Web/Bot Developer (TypeScript, NodeJS, HTML, CSS, Astro)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=1200&q=80" alt="Banner" width="100%" />
+</p>
 
-🔭 Currently working from home
+<h1 align="center">Hi, I'm Kyanoxia 👋</h1>
+<p align="center">
+  <b>I make random shit for random people</b><br>
+  <sub>Unless I don't like them</sub>
+</p>
 
-Long story short:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&width=435&center=true&vCenter=true&lines=Front-end+Hobbyist;Astro+%E2%9C%A8+TypeScript+%E2%9C%A8+NodeJS;3D+Artist+and+Sound+Designer;Proud+Ford+Representative;Always+experimenting" alt="Typing SVG" />
+</p>
 
-🥑 Eat 💻 Code 💪🏽 Sleep (sometimes) ♻️ Repeat
+---
 
+### 🚀 About Me
 
-🌎 Check my [portfolio](https://kyanoxia.com/)
+- 🖥️ **Front-end hobbyist** (not my day job!)
+- 🚗 Employed at **Ford** in a non-tech role
+- 🧑‍💻 Building things with **Astro**, **TypeScript**, and **NodeJS**
+- 🎨 Creating 3D art & 🎵 sound design in my free time
 
-I'm always doing projects, but I can't remember to keep my portfolio up to date. 
+---
 
-Feel free to reach out 💬
+### 🛠️ Tech Stack
 
-<div align="center" style="background:#414a50; padding: 25px 0;">
-    <a href="https://bsky.app/profile/kyanoxia.com" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Follow me on BlueSky" width="25px">
-    </a>
-     <a href="https://youtube.com/@Kyanoxia/" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/YouTube_full-color_icon_%282024%29.svg/2560px-YouTube_full-color_icon_%282024%29.svg.png" alt="See my YouTube" width="25px">
-    </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Astro-252F3E?style=for-the-badge&logo=astro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+- [**Orchid**](https://github.com/Kyanoxia/Orchid) – Single-purpose Discord bot!
+- [**Kyanet**](https://github.com/Kyanoxia/Kyanet) – My personal website!
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyanoxia&show_icons=true&theme=tokyonight&hide_border=true" alt="Kyanoxia's GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyanoxia&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyanoxia&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+### 🎨 Fun Fact
+
+When I’m not coding, I’m creating **3D art** or designing sounds!
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://bsky.app/profile/your-bluesky-handle"><img src="https://img.shields.io/badge/bluesky-1da1f2?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+  <a href="https://discordapp.com/users/YourDiscordID"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kyanoxia&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<!--
+✨ README generated with GitHub Copilot ✨
+-->
