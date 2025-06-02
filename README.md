@@ -1,7 +1,7 @@
 <!-- Profile README for Kyanoxia -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=1200&q=80" alt="Banner" width="100%" />
+  <img src="https://cdn.bsky.app/img/banner/plain/did:plc:cocpebhxzqhh2vxsp4ivzdbr/bafkreiazbyvp3oltik2g7szedpewo4w76a26y4y2ix52qktfeeme6krt3a@jpeg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Kyanoxia 👋</h1>
@@ -63,15 +63,15 @@ When I’m not coding, I’m creating **3D art** or designing sounds!
 
 ### 🌐 Connect with Me
 
-<p>
-  <a href="https://bsky.app/profile/your-bluesky-handle"><img src="https://img.shields.io/badge/bluesky-1da1f2?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
-  <a href="https://discordapp.com/users/YourDiscordID"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<p align="center">
+  <a href="https://bsky.app/profile/kyanoxia.com"><img src="https://img.shields.io/badge/bluesky-1da1f2?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+  <a href="https://kyanoxia.com/join"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kyanoxia&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kyanoxia&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 <!--
