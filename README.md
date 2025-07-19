@@ -1,7 +1,7 @@
 <!-- Profile README for Kyanoxia -->
 
 <p align="center">
-  <img src="https://cdn.bsky.app/img/banner/plain/did:plc:cocpebhxzqhh2vxsp4ivzdbr/bafkreiazbyvp3oltik2g7szedpewo4w76a26y4y2ix52qktfeeme6krt3a@jpeg" alt="Banner" width="100%" />
+  <img src="https://github.com/Kyanoxia/Kyanoxia/blob/2ec2ce3da2d5477dbcf6b36a2aef3f0eac14b906/Kyanoxia%20Glitch.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Kyanoxia 👋</h1>
