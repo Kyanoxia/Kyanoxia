@@ -19,9 +19,8 @@
 ### 🚀 About Me
 
 - 🖥️ **Front-end hobbyist** (not my day job!)
-- 🚗 Employed at **Ford** in a non-tech role
 - 🧑‍💻 Building things with **Astro**, **TypeScript**, and **NodeJS**
-- 🎨 Creating 3D art & 🎵 sound design in my free time
+- 🎨 Creating 3D art & music in my free time
 
 ---
 
@@ -37,15 +36,14 @@
 
 ### 🌟 Featured Projects
 
-- [**Orchid**](https://github.com/Kyanoxia/Orchid) – Single-purpose Discord bot!
-- [**Kyanet**](https://github.com/Kyanoxia/Kyanet) – My personal website!
+- [**Orchid**](https://github.com/Kyanoxia/Orchid) – Discord bot
+- [**Kyanet**](https://github.com/Kyanoxia/KyanetV2) – My personal website
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyanoxia&show_icons=true&theme=tokyonight&hide_border=true" alt="Kyanoxia's GitHub stats" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyanoxia&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
 </p>
 
@@ -57,7 +55,7 @@
 
 ### 🎨 Fun Fact
 
-When I’m not coding, I’m creating **3D art** or designing sounds!
+When I’m not coding, I’m creating **3D art** or composing songs!
 
 ---
 
